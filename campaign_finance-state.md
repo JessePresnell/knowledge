@@ -32,7 +32,7 @@ New Hampshire|http://cfs.sos.nh.gov/CFS/Public/default.aspx|Yes|No |Yes|pdf||web
 New Jersey|http://www.elec.state.nj.us/publicinformation.htm|Yes|Yes|Yes|electronic||website dysfunction|N/A|N/A|N/A|N/A|good
 New Mexico|https://cfis.state.nm.us/media/Reports.aspx|Yes|Yes|Yes|electronic, pdf, excel, word||Yes|Yes|if above $250|Yes|Yes|average
 New York|http://www.elections.ny.gov/contribandexpend.html|Yes|Yes|Yes|electronic||Yes|Yes|no occupation|Yes|Yes|good
-North Carolina|http://www.ncsbe.gov/content2e5f.html?id=22|Yes|Some|Yes|image||Yes|No|Yes|Yes|Yes|poor
+North Carolina|http://app.ncsbe.gov/webapps/cf_rpt_search_org/cf_report_comm_results.aspx?O=on&C=on&I=on&NM=|Yes|Some|Yes|electronic, pdf, excel||Yes|No|Yes|Yes|Yes|poor
 North Dakota|http://www.nd.gov/sos/campfinance/dis-report.html|Yes|No|Yes|electronic||Yes|Tab-Delimited|Voluntary|Yes|No|average
 Ohio|http://www.sos.state.oh.us/SOS/CampaignFinance.aspx|Yes|No|Yes|electronic||Yes|excel|Yes|Yes|Yes|good
 Oklahoma|https://www.ok.gov/ethics/crs/index.php|Yes|Yes|Yes|electronic||Yes|Yes|Yes|Yes|Yes|good
